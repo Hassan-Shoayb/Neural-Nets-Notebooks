@@ -1,2 +1,7 @@
 # Neural Network Notebooks
 This is special repository containing Jupyter Notebooks for training Neural Networks 
+
+<ul>
+  <li>Tensorflow</li>
+  <li>Keras</li>
+ </ul>
