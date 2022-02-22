@@ -4,4 +4,5 @@ This is special repository containing Jupyter Notebooks for training Neural Netw
 <ul>
   <li>Tensorflow</li>
   <li>Keras</li>
+  <li> Scikit-learn </li>
  </ul>
